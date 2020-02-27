@@ -1,2 +1,24 @@
-# javascript-array-functions-demo
-Demo project for JavaScript array function
+# Examples for JavaScript array functions
+
+## Filter
+```
+filter.js
+```
+
+## Map
+```
+map.js
+```
+
+## Reduce
+```
+reduce.js
+```
+
+## ForEach
+```
+forEach.js
+```
+
+
+
